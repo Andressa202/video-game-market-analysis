@@ -153,7 +153,7 @@ The project highlights the importance of platform life cycles, regional consumer
 
 ## 👩‍💻 Author
 
-**Andressa Cruz Miranda**
+**Andressa Miranda**
 
 Computer Science | Data Analytics | Python | Statistical Analysis
 
